@@ -1,0 +1,21 @@
+*{
+    padding: 0; margin: 0; box-sizing: border-box;
+}
+
+html, body{
+    height: 100%; width: 100%; background-color: cornsilk;
+    display: flex; align-items: center; justify-content: center;
+    flex-direction: column; gap: 5px;
+}
+
+form{
+    display: flex; flex-direction: column; gap: 5px; padding: 10px;
+}
+
+form input{
+    font-size: 22px;
+}
+
+form button{
+    font-size: 22px;
+}
